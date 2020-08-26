@@ -1,3 +1,6 @@
+
+1. Automation Testing
+
 # This is a ReadME.md file to guide for the project Testing Challenge QA Analyst at Bunnings
 
 BDD Cucumber Hybrid framework for Bunnings Prod test cases 
@@ -25,3 +28,6 @@ How to execute ?
 8. You can view the reports under target/cucumber-reports/
 
 
+2. Functional Testing Plan
+
+Please download and validate the Excel sheet for all the Functional test scenario’s as advised in Assignment.
